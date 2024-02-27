@@ -1,6 +1,6 @@
 NAME OF PROJECT:
 ================
-Encrypting & Decrypting in AES mod CBC
+Encrypting & Decrypting in AES mode CBC
 
 NAME OF PROGRAMMER:
 ===================
