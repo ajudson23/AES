@@ -17,13 +17,9 @@ SPECIAL INSTRUCTIONS:
 Describe where the files can be found.
     They can be found on canvas. I recommend downloading File 1 ('AES_encrypt_decrypt.py') & File 2 ('plaintext1.txt'). 
     When you run File 1 you will be asked to input a file to encrypt. Here you will type in File2 ('plaintext1.txt').
-    File 3 & 4 just show my output. You will actually generate this on your own by following the instructions below -- So no 
-    need to download them your self!
 
     File 1: AES_encrypt_decrypt.py
     File 2: plaintext1.txt
-    File 3: plaintext1.txt.enc
-    File 4: plaintext1.txt.dec
 
 Provide any special instructions to access or run your program.
     To run this program you will need the files AES_encrypt_decrypt.py & plaintext1.txt in a directory
