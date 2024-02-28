@@ -1,5 +1,5 @@
 from Crypto import Random
-from Crypto.Cipher import AES
+from Crypto.Cipher import AES       # this includes openSSL as a feature of the libary 
 import os
 import os.path
 
